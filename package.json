@@ -16,5 +16,8 @@
     "@preact/preset-vite": "^2.10.1",
     "rollup": "^4.37.0",
     "vite": "^6.2.0"
+  },
+  "optionalDependencies": {
+    "@rollup/rollup-linux-x64-gnu": "4.37.0"
   }
 }
