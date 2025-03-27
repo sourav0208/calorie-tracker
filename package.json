@@ -9,10 +9,12 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@rollup/plugin-babel": "^6.0.4",
     "preact": "^10.26.2"
   },
   "devDependencies": {
     "@preact/preset-vite": "^2.10.1",
+    "rollup": "^4.37.0",
     "vite": "^6.2.0"
   }
 }
